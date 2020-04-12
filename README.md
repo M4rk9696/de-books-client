@@ -1,4 +1,4 @@
-# de-books-client
+# de-books-client [![Build Status](https://travis-ci.com/M4rk9696/de-books-client.svg?branch=master)](https://travis-ci.com/M4rk9696/de-books-client)
 de-books PWA client
 
 ## Commands
