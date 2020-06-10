@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../bootcamp-just-cinemas-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../bootcamp/bootcamp-just-cinemas-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../mind-zone/contract-testing-example/multiple-consumer/consumer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../mind-zone/contract-testing-example/multiple-consumer/producer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/tdd-exercise" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
