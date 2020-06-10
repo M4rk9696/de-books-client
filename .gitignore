@@ -1,7 +1,9 @@
 node_modules/
 .nyc_output/
-coverage/
+build/
 dist/
-tmp/
+.gradle/
+*.csv
+*.db
 npm-debug.log*
 .DS_Store

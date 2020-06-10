@@ -1,0 +1,17 @@
+plugins {
+  id "application"
+}
+
+repositories {
+  jcenter()
+}
+
+dependencies {
+  implementation "org.freemarker:freemarker:2.3.30"
+}
+
+// task copyTemplate(type: Copy, description: "Copy freemarker templates") {
+
+// }
+
+mainClassName = "com.mark.Client"

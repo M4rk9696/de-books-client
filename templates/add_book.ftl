@@ -1,12 +1,8 @@
-const html = require('nanohtml')
-const css = require("sheetify")
-
-css("tachyons")
-
-const el = html`
+<html>
+  <#include "/header.ftl">
   <body>
     <div class="pa4 black-80">
-      <form class="measure center" action=${`http://192.168.68.114:8080/v1/add`} method="POST">
+      <form class="measure center" action="/v1/add" method="POST">
         <fieldset class="ba b--transparent ph0 mh0">
           <legend class="f4 fw6 ph0 mh0">Add bookmark</legend>
           <div class="mt3">
@@ -28,6 +24,4 @@ const el = html`
       </form>
     </div>
   </body>
-`
-
-document.body.appendChild(el)
+</html>
